@@ -62,10 +62,11 @@ else:
 ```
  
 
-# Output : ![old old](https://user-images.githubusercontent.com/75246297/168964927-31dd49b4-5dec-47a6-a3a8-fc17a8d5df17.png)
-[unit -3 notes.docx](https://github.com/Harish2024/FittingPoissonDistribution/files/8713488/unit.-3.notes.docx)
+# Output : 
 
 
+![old old](https://user-images.githubusercontent.com/75246297/168965023-f2b82146-fe47-48b2-aafe-6c802be2106c.png)
+[unit -3 notes.docx](https://github.com/Harish2024/FittingPoissonDistribution/files/8713491/unit.-3.notes.docx)
 
 # Result :
 Thus, the program to fit poisson distribution is implemented
